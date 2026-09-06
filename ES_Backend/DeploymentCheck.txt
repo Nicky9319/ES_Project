@@ -1,0 +1,1 @@
+Indexing User Id in the USER_PROFILE Collection.
